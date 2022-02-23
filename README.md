@@ -1,28 +1,28 @@
 #Adaptive Windows Website
 This is a one-page website that has an adaptation for a mobile device, a burger menu, a gallery of photos and information about the company.
 ---
-##Home page
+Home page
 ![home](home1.png)
 
-##Home page mobile
+Home page mobile
 ![home_mobile](home2.png)
 ---
 
 ---
-##Info page
+Info page
 ![info](info1.png)
 
-##Info page mobile
+Info page mobile
 ![info_mobile](info2.png)
 ---
 
 ---
-##Contact page
+Contact page
 ![contact](contact1.png)
 
-##Contact page mobile
+Contact page mobile
 ![contact_mobile](contact2.png)
 ---
 
-##Thanks for watching!
+Thanks for watching!
 My Linkedin - https://www.linkedin.com/in/elinadzi/
